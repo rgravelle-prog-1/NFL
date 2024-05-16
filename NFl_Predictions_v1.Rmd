@@ -1,0 +1,32 @@
+---
+title: |
+  \vspace{1cm}
+  \includegraphics[width=8cm]{pictures/open_logo.jpg}
+author: "Robert Gravelle"
+date: "Date"
+output:
+  pdf_document: default
+---
+
+\newpage
+\thispagestyle{empty}
+\mbox{}
+
+# Introduction
+
+Your introduction text here...
+
+# Data Analysis
+
+## Summary Statistics
+
+Your summary statistics and analysis here...
+
+## Predictive Modeling
+
+Your predictive modeling approach and results here...
+
+# Conclusion
+
+Your conclusion and final thoughts here...
+
